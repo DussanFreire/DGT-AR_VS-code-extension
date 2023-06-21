@@ -22,7 +22,7 @@ Dependency Graph Tool in Augmented Reality (DGT-AR),a visualization tool that su
 
 ## App overview
 
-DGT-AR is a visualization tool that comprises three essential components. To gain a comprehensive understanding of the entire system, please visit the following GitHub repository [DGT-AR](https://github.com/DussanFreire/DGT-AR_API/tree/DGT-AR). 
+DGT-AR is a visualization tool that comprises three essential components. To gain a comprehensive understanding of the entire system, please visit the following GitHub repository [DGT-AR](https://github.com/DussanFreire/DGT-AR). 
 
 The VS Code  facilitates remote interactions with the graph visuazation in the AR APP.
 
