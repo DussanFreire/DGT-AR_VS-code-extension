@@ -1,8 +1,8 @@
 {
-  "name": "cat-coding",
-  "description": "Cat Coding - A Webview API Sample",
+  "name": "DTG-AR",
+  "description": "Dependency Graph Tool in Augmented Reality (DGT-AR),a visualization tool that supports change impact analysis by allowing developers to interact with a code dependency graph in immersive AR. DGT-AR uses the node-link diagram visualization technique to provide an overview of the dependencies in a software system.",
   "version": "0.0.1",
-  "publisher": "vscode-samples",
+  "publisher": "DussanFreire",
   "private": true,
   "license": "MIT",
   "repository": {
